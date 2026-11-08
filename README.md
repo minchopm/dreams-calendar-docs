@@ -2,7 +2,7 @@
 
 A device-local dream journal, daily reflection calendar and self-reported sleep charts.
 
-[Official product website](https://dreams-calendar.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6760776853)
+[Official product website](https://dreams-calendar.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6760776853) · [Side-by-side comparisons](https://dreams-calendar.arte-soft.com/compare/) · [Guides & workflows](https://dreams-calendar.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://dreams-calendar.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
