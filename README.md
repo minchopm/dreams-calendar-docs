@@ -2,7 +2,26 @@
 
 A device-local dream journal, daily reflection calendar and self-reported sleep charts.
 
-[Official product website](https://dreams-calendar.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/dreams-calendar/id6760776853?pt=127093297&ct=github_dreams_calendar&mt=8) · [Side-by-side comparisons](https://dreams-calendar.arte-soft.com/compare/) · [Guides & workflows](https://dreams-calendar.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://dreams-calendar.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://dreams-calendar.arte-soft.com/) · [Arte Soft portal](https://dreams-calendar.arte-soft.com/articles/) · [App Store](https://apps.apple.com/us/app/dreams-calendar/id6760776853) · [Comparisons](https://dreams-calendar.arte-soft.com/compare/) · [Guides](https://dreams-calendar.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://dreams-calendar.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://dreams-calendar.arte-soft.com/](https://dreams-calendar.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://dreams-calendar.arte-soft.com/articles/](https://dreams-calendar.arte-soft.com/articles/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/dreams-calendar/id6760776853](https://apps.apple.com/us/app/dreams-calendar/id6760776853) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://dreams-calendar.arte-soft.com/compare/](https://dreams-calendar.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://dreams-calendar.arte-soft.com/articles/](https://dreams-calendar.arte-soft.com/articles/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://dreams-calendar.arte-soft.com/llms-full.txt](https://dreams-calendar.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/dreams-calendar-docs/](https://minchopm.github.io/dreams-calendar-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Guided capture wizard separating night dreams, daydreams, and evening reflections across 10 structured sleep and emotion signals.
+- 6 custom calendar views and 10 native Swift Charts preserving strict distinction between unlogged days and zero-score measurements.
+- 100% on-device SwiftData storage in 7 languages with zero account sign-up, zero cloud servers, and $0 subscriptions.
 
 ## Who this is for
 
@@ -34,4 +53,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
